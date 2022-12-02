@@ -1,4 +1,5 @@
 package de.neuefisch;
+import java.util.Map;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -14,11 +15,12 @@ public class OrderRepo {
 
     //Get
 
+
     public Order getOrder(int orderKey) {
-        return orders.get(orderkey);
+        return orders.get(orderKey);
 
     }
     public void add(Order order) {
-        orders.put(order.getOrderId(), order)
+        orders.put(order.getOrderId(), order);
     }
 }

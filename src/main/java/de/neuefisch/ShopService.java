@@ -8,24 +8,23 @@ public class ShopService {
 
     private ProductRepo productRepo;
 
-}
 
-    getProduct() {
-    }
+
+   // getProduct() {
+
 
     public Map<Integer, Product> listOfAllProducts() {
         return this.productRepo.getProducts();
     }
 
-    addOrder() {
+    //addOrder() {
 
-    }
+   // }
 
-    getOrder() {
+    //getOrder() {
 
-    }
+   // }
 
-    public Map<Integer, Order>listOfAllOrders() {
-        return this.orderRepo.getOrder();
-    }
-}
+    //public Map<Integer, Order>listOfAllOrders() {
+    //    return this.orderRepo.getOrders();
+   }
