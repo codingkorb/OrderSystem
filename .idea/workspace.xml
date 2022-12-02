@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edcfd58c-77bb-4496-beac-f28ef8925b60" name="Changes" comment="1st Commit" />
+    <list default="true" id="edcfd58c-77bb-4496-beac-f28ef8925b60" name="Changes" comment="1st Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/OrderRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/ProductRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/ProductRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/ShopService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -30,6 +40,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2ILxGw8Ui1NjjoeagBgjbZfkVOe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,6 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +66,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.neuefisch" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="OrderSystem" />
@@ -74,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669974581784</updated>
-      <workItem from="1669974583090" duration="4254000" />
+      <workItem from="1669974583090" duration="18695000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit">
       <created>1669985672002</created>
@@ -90,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669985712580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1st Commit">
+      <created>1669985998784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669985998784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +131,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

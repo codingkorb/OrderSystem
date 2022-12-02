@@ -1,16 +1,19 @@
 package de.neuefisch;
 
 import jdk.jfr.DataAmount;
+import lombok.AllArgsConstructor;
+import lombok.Data;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Data@AllArgsConstructor
 
 public class Product {
 
-        private int id;
-        private String Name;
-        private String Make;
+        private int productId;
+        private String productName;
+
 
    /* List<Product> productList = new ArrayList<>()
          productList.add(product1);
