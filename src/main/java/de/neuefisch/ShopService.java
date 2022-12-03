@@ -14,7 +14,7 @@ public class ShopService {
 
    // getProduct() {
    public ProductRepo getProduct() {
-       return orders.get(orderKey);
+       return orders.get(productKey);
 
     public Map<Integer, Product> listOfAllProducts();
         return this.productRepo.getProducts();
