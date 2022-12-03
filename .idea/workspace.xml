@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edcfd58c-77bb-4496-beac-f28ef8925b60" name="Changes" comment="50%">
+    <list default="true" id="edcfd58c-77bb-4496-beac-f28ef8925b60" name="Changes" comment="60%">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/OrderRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/ProductRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/ProductRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefisch/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefisch/ShopService.java" afterDir="false" />
     </list>
@@ -37,7 +36,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ILxGw8Ui1NjjoeagBgjbZfkVOe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -131,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669974581784</updated>
-      <workItem from="1669974583090" duration="25592000" />
+      <workItem from="1669974583090" duration="30093000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit">
       <created>1669985672002</created>
@@ -161,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670001844091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="60%">
+      <created>1670017074663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670017074663</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Commit" />
     <MESSAGE value="50%" />
-    <option name="LAST_COMMIT_MESSAGE" value="50%" />
+    <MESSAGE value="60%" />
+    <option name="LAST_COMMIT_MESSAGE" value="60%" />
   </component>
 </project>
